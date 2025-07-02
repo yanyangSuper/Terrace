@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Terrace
-Construction industry chain platform, aggregating project subcontracting, bidding and tendering, labor market, building materials mall, industry information, skill certification, blockchain evidence preservation
-=======
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,4 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> b30c3a1 (Initialize project using Create React App)

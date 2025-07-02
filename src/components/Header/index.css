@@ -1,0 +1,16 @@
+.banner {
+   height: calc(100vh - 56px);
+}
+.first-menu {
+   width: 150px;
+   height: 61px;
+   line-height: 61px;
+   padding-top: 0;
+   bottom: 0;
+   left: 0;
+   background: url(//www.shiyan.gov.cn/material/images/index-nav-bg.png);
+   background-size: 100% 100%;
+   border: none!important;
+   color: #FFFFFF;
+   text-align: center;
+}

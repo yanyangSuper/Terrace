@@ -1,0 +1,6 @@
+.legend-left {
+    background: linear-gradient(-90deg, #12A6EB 0%, #D0EDFB 40%, #F7F7F7 100%);
+}
+.legend-right {
+    background: linear-gradient(-90deg, #F7F7F7 0%, #D0EDFB 55.00000000000001%, #22A9EB 100%);
+}
